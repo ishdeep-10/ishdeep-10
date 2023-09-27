@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ishdeep-10
 - 👀 I’m interested in Data Analytics / Data Science
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently working for Optum as a Data Engineering Analyst
 - 💞️ I’m looking to collaborate on Sports Analytic Projects
 - 📫 How to reach me ishdeepsinghchadha@gmail.com
 
